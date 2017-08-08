@@ -3,7 +3,7 @@ This is various scripts, for Raspbian Korea users.
 
 # After Pi_Setup.sh run
 
-* Monitor Setting chagne : 1680 x 1050
+* **Monitor Setting chagne** : 1680 x 1050
 
   > if you want change to `/boot/config.txt` file, **[Reference here](http://elinux.org/RPiconfig)**
 
