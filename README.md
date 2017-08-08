@@ -4,7 +4,7 @@ This is various scripts, for Raspbian Korea users.
 # After Pi_Setup.sh run
 
 * Monitor Setting chagne : 1080P
-   if you want change to `/boot/config.txt` file, **[Reference here]**(http://elinux.org/RPiconfig)
+   if you want change to `/boot/config.txt` file, **[Reference here](http://elinux.org/RPiconfig)**
 
 * System Language : Hangul setting
 * Font Change : Naum-coding
