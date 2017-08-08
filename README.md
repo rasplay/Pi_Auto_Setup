@@ -9,10 +9,11 @@ This is various scripts, for Raspbian Korea users.
 
 * System Language : Hangul setting
 * Font Change : Naum-coding
-* Keyboard Input interface : fcxit-hangul installed 
+* Keyboard Input interface : fcxit-hangul installed
 
-   > Hangul Keboard Input : `Ctrl + Space` press key
-     Hnagul input setting **[Reference here](https://m.blog.naver.com/PostView.nhn?blogId=opusk&logNo=220986268503&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)**
+   > Hangul Keboard Input : `Ctrl + Space` press key 
+   
+   Hnagul input setting **[Reference here](https://m.blog.naver.com/PostView.nhn?blogId=opusk&logNo=220986268503&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)**
 
 <img src="https://github.com/rasplay/Pi_Auto_Setup/blob/master/IMG/Pi_Setup_1.png" width="1200">
 
