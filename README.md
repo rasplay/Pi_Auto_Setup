@@ -5,7 +5,7 @@ This is various scripts, for Raspbian Korea users.
 
 * Monitor Setting chagne : 1680 x 1050
 
-      * if you want change to `/boot/config.txt` file, **[Reference here](http://elinux.org/RPiconfig)**
+  > if you want change to `/boot/config.txt` file, **[Reference here](http://elinux.org/RPiconfig)**
 
 * System Language : Hangul setting
 * Font Change : Naum-coding
