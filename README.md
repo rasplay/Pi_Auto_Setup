@@ -4,7 +4,7 @@ This is various scripts, for Raspbian Korea users.
 # How to run Pi_setup.sh 
 
  ```
- $ sudo pi_setup.sh ↵
+ $ sudo pi_setup.sh
  ```
 
 
