@@ -17,3 +17,9 @@ This is various scripts, for Raspbian Korea users.
 <img src="https://github.com/rasplay/Pi_Auto_Setup/blob/master/IMG/Pi_Setup_2.png" width="1200">
 
 <img src="https://github.com/rasplay/Pi_Auto_Setup/blob/master/IMG/Pi_Setup_3.png" width="1200">
+
+# How to run Pi_setup.sh 
+
+ ```
+ $ sudo pi_setup.sh ↵
+ ```
