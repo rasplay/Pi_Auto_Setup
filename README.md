@@ -26,3 +26,7 @@
 <img src="https://github.com/rasplay/Pi_Auto_Setup/blob/master/IMG/Pi_Setup_2.png" width="1200">
 
 <img src="https://github.com/rasplay/Pi_Auto_Setup/blob/master/IMG/Pi_Setup_3.png" width="1200">
+
+# Reference Site 
+
+* [SECURING YOUR RASPBERRY PI](https://www.raspberrypi.org/documentation/configuration/security.md)
