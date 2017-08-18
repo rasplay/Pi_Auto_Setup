@@ -1,5 +1,5 @@
 # Pi_Auto_Setup
-This is various scripts, for Raspbian Korea users.
+> This is various scripts, for Raspbian Korea users.
 
 # How to run Pi_setup.sh 
 
