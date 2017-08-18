@@ -1,6 +1,8 @@
 # Pi_Auto_Setup
 > This is various scripts, for Raspbian Korea users.
 
+# RaspberryPi about security setting reference [here](https://www.raspberrypi.org/documentation/configuration/security.md)
+
 # How to run Pi_setup.sh 
 
  ```
