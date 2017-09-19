@@ -6,7 +6,7 @@
 # How to run Pi_setup.sh 
 
  ```
- $ sudo pi_setup.sh
+ $ sudo sh pi_setup.sh
  ```
 
 
