@@ -3,10 +3,17 @@
 
 # RaspberryPi about security setting reference [here](https://www.raspberrypi.org/documentation/configuration/security.md)
 
+
+# Download Script 
+
+```
+$ git clone https://github.com/rasplay/Pi_Auto_Setup
+```
+
 # How to run Pi_setup.sh 
 
  ```
- $ sudo sh pi_setup.sh
+ $ cd Pi_Auto_Setup && sudo sh pi_setup.sh
  ```
 
 
