@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+sudo apt-get autoremove --purge realvnc*
+sudo apt-get install xrdp
 sudo apt-get -y update && sudo apt-get upgrade -y
 
 # X11 hangul Install
