@@ -23,6 +23,7 @@ $ git clone https://github.com/rasplay/Pi_Auto_Setup
 
   > if you want change to `/boot/config.txt` file, **[Reference here](http://elinux.org/RPiconfig)**
 
+* **XRDP Remote Support :** Remort XRDP Change
 * **System Language :** Hangul setting
 * **Font Change :** Naum-coding
 * **Hangul Keboard Input :** `Ctrl + Space` press key   
