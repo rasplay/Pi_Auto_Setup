@@ -8,11 +8,11 @@ sudo apt-get -y update && sudo apt-get upgrade -y
 sudo apt-get -y install fcitx-hangul
 
 # X11 D2Coding-Font Install and Setting
-#wget https://github.com/naver/d2codingfont/releases/download/VER1.21/D2Coding-1.2.zip
-wget https://github.com/naver/d2codingfont/releases/download/VER1.31/D2Coding-Ver1.31-20171219.zip
+wget https://github.com/naver/d2codingfont/releases/download/VER1.21/D2Coding-1.2.zip
+#wget https://github.com/naver/d2codingfont/releases/download/VER1.31/D2Coding-Ver1.31-20171219.zip
 sudo mkdir /usr/share/fonts/truetype/D2Coding
-#sudo unzip D2Coding-1.2.zip -d /usr/share/fonts/truetype/D2Coding/
-sudo unzip D2Coding-Ver1.31-20171219.zip -d /usr/share/fonts/truetype/D2Coding/
+sudo unzip D2Coding-1.2.zip -d /usr/share/fonts/truetype/D2Coding/
+#sudo unzip D2Coding-Ver1.31-20171219.zip -d /usr/share/fonts/truetype/D2Coding/
 rm *.zip
 sudo rm -rf /usr/share/fonts/truetype/D2Coding/__MACOSX
 sudo fc-cache -f -v
